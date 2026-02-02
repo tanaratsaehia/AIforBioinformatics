@@ -1,4 +1,4 @@
-# This repository for CP413304 Apply AI in Medical Informatics
+# This repository for CP413304 Apply AI in Medical Informatics at KKU
 Project GG Drive: https://drive.google.com/drive/folders/10AafhziSpJlozPfrav_9wXu_EhP962jg?usp=sharing
 
 ## Dataset information
